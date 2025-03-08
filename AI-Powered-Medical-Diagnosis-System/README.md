@@ -30,7 +30,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   [git clone https://github.com/yourusername/ai-medical-diagnosis.git](https://github.com/anwghub/AI-Powered-Medical-Diagnosis-System)
+   [git clone https://github.com/yourusername/ai-medical-diagnosis.git]
    cd AI-Powered-Medical-Diagnosis-System
 
 2. **Set Up Virtual Environment:**
@@ -145,5 +145,3 @@ This project uses 5 different datasets, each corresponding to a specific disease
 ---
 
 
-### Contributor
-Anwesa Ghosh
